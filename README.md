@@ -2,7 +2,7 @@
 
 Dependências Nuget
 -------
-Nunit
-NUnit.ConsoleRunner
-NUnit3TestAdapter
-Moq
+* Nunit
+* NUnit.ConsoleRunner
+* NUnit3TestAdapter
+* Moq
