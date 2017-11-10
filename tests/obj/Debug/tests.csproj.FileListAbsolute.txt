@@ -17,6 +17,5 @@ C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\bin\Debug\M
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\bin\Debug\Moq.xml
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\bin\Debug\nunit.framework.xml
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\obj\Debug\tests.csprojResolveAssemblyReference.cache
-C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\obj\Debug\tests.csproj.CoreCompileInputs.cache
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\obj\Debug\tests.dll
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tests\obj\Debug\tests.pdb

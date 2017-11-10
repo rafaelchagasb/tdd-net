@@ -52,6 +52,7 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="br\com\rafaelchagasb\notafiscal\services\GeradorNotaFiscalTest.cs" />
     <Compile Include="br\com\rafaelchagasb\utils\CalculoAnoBixSextoUtilTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

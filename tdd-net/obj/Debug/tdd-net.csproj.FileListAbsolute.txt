@@ -1,6 +1,5 @@
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\bin\Debug\tdd-net.dll
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\bin\Debug\tdd-net.pdb
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\obj\Debug\tdd-net.csprojResolveAssemblyReference.cache
-C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\obj\Debug\tdd-net.csproj.CoreCompileInputs.cache
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\obj\Debug\tdd-net.dll
 C:\Users\1209298\Documents\Visual Studio 2015\Projects\tdd-net\tdd-net\obj\Debug\tdd-net.pdb

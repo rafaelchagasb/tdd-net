@@ -40,8 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="br\com\rafaelchagasb\notafiscal\dao\NFDaoImpl.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\dominio\NotaFiscal.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\dominio\Pedido.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\interfaces\IEmailService.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\interfaces\INFDao.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\interfaces\ISAPService.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\services\EmailService.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\services\GeradorNotaFiscal.cs" />
+    <Compile Include="br\com\rafaelchagasb\notafiscal\services\SAPService.cs" />
     <Compile Include="br\com\rafaelchagasb\utils\CalculoAnoBixSextoUtil.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
